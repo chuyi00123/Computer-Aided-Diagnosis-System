@@ -1,2 +1,2 @@
 # Medical-Aided-Diagnosis-System
-Flask web python
+## 项目简介
