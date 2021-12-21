@@ -30,3 +30,21 @@
 python app.py
 ```
 然后在浏览器打开Localhost即可：
+
+## 5.拓展
+将你自定义的模型加载到此应用程序也很简单
+
+
+<details>
+ <summary>Details</summary>
+
+### 使用自定义模型
+将训练好的模型放入'run_inference'文件夹，然后书写属于自己的推断代码
+
+检查app.py中与模型推测有关的代码是否需要修改
+  
+### 界面修改
+修改templates和static目录中的文件
+用于UI的index.html和用于所有行为的main.js
+  
+
