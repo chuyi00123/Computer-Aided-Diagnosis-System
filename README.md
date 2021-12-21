@@ -43,7 +43,7 @@ python app.py
  <summary>Details</summary>
 
 ### 使用自定义模型
-将训练好的模型放入'run_inference'文件夹，然后书写属于自己的推断代码
+将训练好的模型放入'run_code'文件夹，然后书写属于自己的推断代码
 
 检查app.py中与模型推测有关的代码是否需要修改
   
