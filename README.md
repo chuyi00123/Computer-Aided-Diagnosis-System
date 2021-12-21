@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/5097752/71063354-8caa1d00-213a-11ea-86eb-879238887c1f.png" height="420px" alt="">
+  <img src="https://raw.githubusercontent.com/chuyi00123/Medical-Aided-Diagnosis-System/master/dfbec2cab597e4e3cefe99f10255e4b.png" height="420px" alt="">
 </p>
 
 ## 2.语义分割模型
@@ -30,6 +30,10 @@
 python app.py
 ```
 然后在浏览器打开Localhost即可：
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chuyi00123/Medical-Aided-Diagnosis-System/master/dfbec2cab597e4e3cefe99f10255e4b.png" height="420px" alt="">
+</p>
 
 ## 5.拓展
 将你自定义的模型加载到此应用程序也很简单
