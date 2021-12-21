@@ -12,3 +12,17 @@
 本项目以以图像分割为中心，利用人工智能实现肾脏、肿瘤及囊肿的精准分割，并通过Flask框架将肾脏及其病灶分割模型部署到网络应用程序。前端使用简单的JavaScript，HTML和CSS，后端使用Python语言开发，框架基于Flask和Pytorch, 相关代码持续更新中......
 
 :point_down: Screenshot:
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5097752/71063354-8caa1d00-213a-11ea-86eb-879238887c1f.png" height="420px" alt="">
+</p>
+
+## 2.语义分割模型
+本项目利用KiTS21数据集进行模型训练，模型详情：https://openreview.net/forum?id=immB02xhM15
+
+## 3.模型预测
+使用模型进行预测，并将推断结果保存在'./run_code/Result'文件夹中
+
+## 4.启动WEB应用
+
