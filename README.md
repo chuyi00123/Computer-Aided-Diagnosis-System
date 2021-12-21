@@ -25,4 +25,8 @@
 使用模型进行预测，并将推断结果保存在'./run_code/Result'文件夹中
 
 ## 4.启动WEB应用
-
+在Flask项目下运行以下代码启动后端：
+```
+python app.py
+```
+然后在浏览器打开Localhost即可：
