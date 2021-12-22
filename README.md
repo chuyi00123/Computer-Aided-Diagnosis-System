@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chuyi00123/Medical-Aided-Diagnosis-System/master/dfbec2cab597e4e3cefe99f10255e4b.png" height="420px" alt="">
+  <img src="https://raw.githubusercontent.com/chuyi00123/Computer-Aided-Diagnosis-System/master/c736f9ef397138a3de3617a2a9dc7d1.png" height="420px" alt="">
 </p>
 
 ## 2.语义分割模型
@@ -32,7 +32,7 @@ python app.py
 然后在浏览器打开Localhost即可：
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chuyi00123/Medical-Aided-Diagnosis-System/master/dfbec2cab597e4e3cefe99f10255e4b.png" height="420px" alt="">
+  <img src="https://raw.githubusercontent.com/chuyi00123/Computer-Aided-Diagnosis-System/master/c736f9ef397138a3de3617a2a9dc7d1.png" height="420px" alt="">
 </p>
 
 ## 5.拓展
